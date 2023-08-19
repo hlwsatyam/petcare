@@ -1,0 +1,10 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+
+.imgstyle{
+    height: 50px;
+    width: 50px ;
+}
